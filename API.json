@@ -8,7 +8,7 @@
   "servers": [
     {
       "url": "https://virtserver.swaggerhub.com/FIRLYDANISYIFANAPUTR/API/1.0.0",
-      "description": "SwaggerHub API Auto Mocking"
+      "description": "SwaggerHub API"
     }
   ],
   "paths": {
